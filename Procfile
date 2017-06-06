@@ -1,1 +1,1 @@
-web: gunicorn app: Mielec
+web: gunicorn app:Mielec
