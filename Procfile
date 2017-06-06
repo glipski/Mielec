@@ -1,1 +1,1 @@
-web: gunicorn Mielec:app
+web: gunicorn app: Mielec
